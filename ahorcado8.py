@@ -203,7 +203,6 @@ while seguirJugando == True: # Este es el bucle del menú
         print("\tAna Raquel Maldonado")
         print("\tClaudia Sivilotti")
         print("\tMercedes Estela Scipioni")
-        print("\tFlorencia Castro")
         print("\tMarcelo Berretta")
     elif opcion == 4:
         print("Gracias por jugar...")
